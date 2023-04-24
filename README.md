@@ -19,4 +19,4 @@ In 2022, I started learning web development in GoIT courses where I study till n
 
 ### Badges
 
-<a href="https://github.com/KSS1989" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSS1989&langs_count=10&title_color=3382ed&text_color=facc15&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/KlokunSerhii" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlokunSerhii&langs_count=10&title_color=3382ed&text_color=facc15&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
