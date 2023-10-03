@@ -7,11 +7,11 @@
 <b>I'm an Junior Full Stack Developer. <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="45" height="36" alt="" /><br>
 In 2022 I started studying web development in GoIT courses, I graduated in 2023!</br>
 
-<h3> 🌍 I'm based in Ukraine</h3>
+🌍 I'm based in Ukraine
  
-<h3> ✉️ You can reach me at </h3>[klokun.serhii@gmail.com](mailto:klokun.serhii@gmail.com)
+✉️ You can reach me at [klokun.serhii@gmail.com](mailto:klokun.serhii@gmail.com)
 
-<h3> 🤝 I'm open to cooperation on interesting projects</h3>
+🤝 I'm open to cooperation on interesting projects
 
 ###  Languages and Tools 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
