@@ -68,7 +68,7 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KlokunSerhii&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KlokunSerhii&theme=nord_dark)
   
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
