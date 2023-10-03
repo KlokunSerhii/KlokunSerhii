@@ -8,11 +8,11 @@
 In 2022 I started studying web development in GoIT courses, I graduated in 2023!</br>
 
 <div>
-  🌍 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=000000&width=500&lines=I'm+based+in+Ukraine" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=000000&width=500&lines=I'm+based+in+Ukraine" alt="Typing SVG" />🌍</a>
 </div>
 
 <div>
-  🤝<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=500&color=000000&width=700&height=60&lines=I'm+open+to+cooperation+on+interesting+projects" alt="Typing SVG" /></a>
+  a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=500&color=000000&width=700&height=60&lines=I'm+open+to+cooperation+on+interesting+projects" alt="Typing SVG" />🤝<</a>
 </div>
 
  <div>
