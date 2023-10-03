@@ -6,8 +6,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&height=30&size=24&pause=1000&color=13F7B8&width=500&lines=I'm+an+Junior+Full+Stack+Developer" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&pause=1000&color=000000&width=800&height=30&lines=In+2022+I+started+studying+web+development+in+GoIT+courses%2C+I+graduated+in+2023!" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&pause=1000&color=000000&width=800&height=60&lines=%F0%9F%8C%8D+I'm+based+in+Ukraine" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&pause=1000&color=000000&width=800&height=30&lines=%F0%9F%A4%9D+I'm+open+to+cooperation+on+interesting+projects" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&pause=1000&color=13F7B8&width=800&height=60&lines=%F0%9F%8C%8D+I'm+based+in+Ukraine" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&pause=1000&color=13F7B8&width=800&height=30&lines=%F0%9F%A4%9D+I'm+open+to+cooperation+on+interesting+projects" alt="Typing SVG" /></a>
 
  <div>
    ✉️ You can reach me at  <a href="mailto:klokun.serhii@gmail.com">klokun.serhii@gmail.com</a>
