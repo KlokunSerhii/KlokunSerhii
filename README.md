@@ -20,16 +20,6 @@ In 2022 I started studying web development in GoIT courses, I graduated in 2023!
 
 ### Badges
 
-<a href="https://github.com/KlokunSerhii" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlokunSerhii&langs_count=10&title_color=3382ed&text_color=facc15&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="https://github.com/KlokunSerhii" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlokunSerhii&langs_count=10&title_color=3382ed&text_color=facc15&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KlokunSerhii&theme=solarized_dark)
 ![](https://komarev.com/ghpvc/?username=your-github-KlokunSerhii&color=green&style=flat-square)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KlokunSerhii&theme=solarized_dark)
 
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
