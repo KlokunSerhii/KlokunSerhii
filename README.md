@@ -24,16 +24,12 @@ In 2022 I started studying web development in GoIT courses, I graduated in 2023!
 Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KlokunSerhii&theme=nord_dark)
 
-Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KlokunSerhii&theme=nord_dark)
 
-Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KlokunSerhii&theme=nord_dark)
 
-Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KlokunSerhii&theme=nord_dark)
 
-Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KlokunSerhii&theme=nord_dark)
 
 
