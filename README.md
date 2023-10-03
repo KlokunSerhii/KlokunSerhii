@@ -21,6 +21,7 @@ In 2022 I started studying web development in GoIT courses, I graduated in 2023!
 ### Badges
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlokunSerhii)](https://github.com/KlokunSerhii/github-readme-stats)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KlokunSerhii&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KlokunSerhii&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KlokunSerhii&theme=nord_dark)
 
