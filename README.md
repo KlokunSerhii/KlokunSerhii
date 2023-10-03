@@ -10,7 +10,11 @@ In 2022 I started studying web development in GoIT courses, I graduated in 2023!
 
 🌍 I'm based in Ukraine
  <div>
-   ✉️ You can reach me at [klokun.serhii@gmail.com](mailto:klokun.serhii@gmail.com)
+   ✉️ You can reach me at  <a href="mailto:klokun.serhii@gmail.com">
+          klokun.serhii@gmail.com</a>
+   
+   
+   [klokun.serhii@gmail.com](mailto:klokun.serhii@gmail.com)
  </div>
 
 
