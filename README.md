@@ -19,10 +19,18 @@ In 2022 I started studying web development in GoIT courses, I graduated in 2023!
 ### Socials <p align="left"> <a href="https://www.facebook.com/profile.php?id=100001850860043" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/KSS1989" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sergey_klokun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/serhii-klokun-59356915a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ### Badges
-<div align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlokunSerhii)](https://github.com/KlokunSerhii/github-readme-stats) </div>
+<div align="center"> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlokunSerhii)](https://github.com/KlokunSerhii/github-readme-stats) 
+  
+</div>
 
-<div align="center"> ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KlokunSerhii&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KlokunSerhii&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KlokunSerhii&theme=nord_dark)</div>
+<div align="center"> 
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KlokunSerhii&theme=nord_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KlokunSerhii&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KlokunSerhii&theme=nord_dark)
+  
+</div>
 
 
 
