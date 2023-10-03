@@ -12,9 +12,6 @@
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&pause=500&color=000000&width=800&height=60&lines=%F0%9F%A4%9D" alt="Typing SVG" /></a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&pause=500&color=000000&width=700&height=60&lines=I'm+open+to+cooperation+on+interesting+projects" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&pause=500&color=000000&width=800&height=60&lines=+%E2%9C%89%EF%B8%8F+You+can+reach+me+at++%3Ca+href%3D%22mailto%3Aklokun.serhii%40gmail.com%22%3Eklokun.serhii%40gmail.com%3C%2Fa%3E" alt="Typing SVG" /></a>
-
-
  <div>
    ✉️ You can reach me at  <a href="mailto:klokun.serhii@gmail.com">klokun.serhii@gmail.com</a>
  </div>
