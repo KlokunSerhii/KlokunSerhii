@@ -1,7 +1,9 @@
 <img src="https://github.com/KlokunSerhii/KlokunSerhii/blob/main/KlokunSerhii.png">
+![](https://komarev.com/ghpvc/?username=your-github-KlokunSerhii&color=green&style=flat-square)
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=13F7B8&width=500&lines=I'm+an+Junior+Full+Stack+Developer" alt="Typing SVG" /></a><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="65" height="56" alt="" /><br>
+<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="65" height="56" alt="" /><br>
 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=13F7B8&width=500&lines=I'm+an+Junior+Full+Stack+Developer" alt="Typing SVG" /></a>
   
 
 
