@@ -4,9 +4,12 @@
 
 <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="65" height="56" alt="" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&height=30&size=24&pause=1000&color=13F7B8&width=500&lines=I'm+an+Junior+Full+Stack+Developer" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&pause=1000&color=000000&width=800&height=30&lines=In+2022+I+started+studying+web+development+in+GoIT+courses%2C+I+graduated+in+2023!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&height=30&size=24&pause=1000&color=13F7B8&height=40&width=500&lines=I'm+an+Junior+Full+Stack+Developer" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&pause=1000&color=13F7B8&width=800&height=30&lines=In+2022+I+started+studying+web+development+in+GoIT+courses%2C+I+graduated+in+2023!" alt="Typing SVG" /></a>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&pause=1000&color=13F7B8&width=800&height=60&lines=%F0%9F%8C%8D+I'm+based+in+Ukraine" alt="Typing SVG" /></a>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&pause=1000&color=13F7B8&width=800&height=30&lines=%F0%9F%A4%9D+I'm+open+to+cooperation+on+interesting+projects" alt="Typing SVG" /></a>
 
  <div>
