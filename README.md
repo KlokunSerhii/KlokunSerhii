@@ -53,7 +53,6 @@
 </a>
   ### Badges
 <div align="center"> 
-
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlokunSerhii)](https://github.com/KlokunSerhii/github-readme-stats) 
   
@@ -65,9 +64,11 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KlokunSerhii&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KlokunSerhii&theme=nord_dark)
   
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlokunSerhii&repo=banda)](https://github.com/KlokunSerhii/banda)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlokunSerhii&repo=project-banda-pro)](https://github.com/KlokunSerhii/project-banda-pro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlokunSerhii&repo=chat)](https://github.com/KlokunSerhii/chat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlokunSerhii&repo=banda-ice-cream)](https://github.com/KlokunSerhii/banda-ice-cream)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlokunSerhii&repo=Chat-back-end)](https://github.com/KlokunSerhii/Chat-back-end)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlokunSerhii&repo=goit-react-hw-08-phonebook)](https://github.com/KlokunSerhii/goit-react-hw-08-phonebook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlokunSerhii&repo=goit-react-hw-05-movies)](https://github.com/KlokunSerhii/goit-react-hw-05-movies)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlokunSerhii&repo=goit-markup-hw-08)](https://github.com/KlokunSerhii/goit-markup-hw-08)
