@@ -22,4 +22,5 @@ In 2022 I started studying web development in GoIT courses, I graduated in 2023!
 
 <a href="https://github.com/KlokunSerhii" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlokunSerhii&langs_count=10&title_color=3382ed&text_color=facc15&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-(https://komarev.com/ghpvc/?username=your-github-KlokunSerhii)
+![](https://komarev.com/ghpvc/?username=your-github-KlokunSerhii)
+
