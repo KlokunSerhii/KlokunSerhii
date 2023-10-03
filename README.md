@@ -1,7 +1,7 @@
 # Hello 👋, my name is Serhii!
 
 <b>I'm an Junior Frontend Developer. <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="45" height="36" alt="" /><br>
-In 2022, I started learning web development in GoIT courses where I study till now!</br>
+In 2022 I started studying web development in GoIT courses, I graduated in 2023!</br>
 
 🌍 I'm based in Ukraine
 
@@ -21,3 +21,5 @@ In 2022, I started learning web development in GoIT courses where I study till n
 ### Badges
 
 <a href="https://github.com/KlokunSerhii" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlokunSerhii&langs_count=10&title_color=3382ed&text_color=facc15&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+(https://komarev.com/ghpvc/?username=your-github-KlokunSerhii)
