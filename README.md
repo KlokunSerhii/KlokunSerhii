@@ -63,10 +63,7 @@
 
 <div align="center"> 
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KlokunSerhii&theme=nord_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KlokunSerhii&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KlokunSerhii&theme=nord_dark)
-  
-
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlokunSerhii&repo=banda)](https://github.com/KlokunSerhii/banda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlokunSerhii&repo=project-banda-pro)](https://github.com/KlokunSerhii/project-banda-pro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlokunSerhii&repo=chat)](https://github.com/KlokunSerhii/chat)
